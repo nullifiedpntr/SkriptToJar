@@ -2,8 +2,9 @@
 How To Use:
 1) Choose A Skript
 2) Choose a name for the plugin
-3) If you want, you can get a custom skript .jar to get an older version running 
-(currently buggy, might not work)
+3) If you want, you can get a custom skript .jar to get an older version running, BUT
+when you select the skript jar file, the file MUST be named EXACTLY THIS:
+skript.jar
 4) If you want, you can get addons using the window on the left.
 5) Once everything is done, click "Build Jar" and enjoy!
 Origianlly created by: IWick
